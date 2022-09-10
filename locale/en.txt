@@ -1,0 +1,30 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Kerala Lalithakala Akademi Art Gallery, Thalassery
+
+## Skin
+
+### Multiline Text
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:20px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:20px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+HTMLText_CEC04DF3_E7BA_9D44_41A4_9092FAF126F2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:10px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:10px;font-family:'Times Roman';">{{title}}</SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+
+## Media
+
+### Title
+panorama_515413FD_58E5_E625_41D3_DA8C52E4BA5C.label = Art Gallery, Thalassery
+panorama_51541BC1_58E5_E65D_41C5_62747965A00B.label = Art Gallery, Thalassery
+panorama_51541FB0_58E4_5E3B_41B2_65F33E3FB36F.label = Art Gallery, Thalassery
+panorama_51542FE8_58E5_FE2B_41D4_A02ECAFD8F27.label = Art Gallery, Thalassery
+panorama_515433C6_58E5_A664_4198_AFD70BD4D43B.label = Art Gallery, Thalassery
+panorama_515457ED_58E5_AE25_41BB_BC80D2D05B3C.label = Art Gallery, Thalassery
+panorama_515657D4_58E5_AE7B_41B1_8962AAAD0664.label = Art Gallery, Thalassery
+panorama_527C78F1_58E5_A23D_41C5_A5B9271AF723.label = Art Gallery, Thalassery
